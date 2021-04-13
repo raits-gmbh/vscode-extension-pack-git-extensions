@@ -10,9 +10,9 @@
     },
     "license": "MIT",
     "name": "git-extensions",
-    "displayName": "git-extensions",
+    "displayName": "Git Extensions Pack",
     "description": "Extensions related to git",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.55.0"
     },
